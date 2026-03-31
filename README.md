@@ -9,7 +9,7 @@ This is a multi-task visual recognition problem built on the DeepFashion2 datase
 - Bounding Box Detection and Pixel-Level Instance Segmentation -- Models used : _YOLO, Mask R-CNN, U-Net_ 
 ### Report:
 Read the Report here : [Report]()
-
+See the Hugging Face Inference code here : [Code](https://github.com/Harshita30-bansal/VR_MiniProject1/blob/main/huggingface.ipynb)
 
 
 
